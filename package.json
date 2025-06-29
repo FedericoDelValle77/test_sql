@@ -1,0 +1,23 @@
+{
+  "name": "clinica",
+  "version": "0.0.1",
+  "description": "Sistema de Gestión de turnos ",
+  "main": "db.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FedericoDelValle77/test_sql.git"
+  },
+  "author": "Federico Del Valle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FedericoDelValle77/test_sql/issues"
+  },
+  "homepage": "https://github.com/FedericoDelValle77/test_sql#readme",
+  "dependencies": {
+    "mysql2": "^3.14.1"
+  }
+}
