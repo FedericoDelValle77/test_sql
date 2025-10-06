@@ -4,7 +4,7 @@ const pool = createPool({
   host: 'localhost',
   user: 'root',
   password: '',
-  database: 'clinica'
+  database: 'biblioteca'
 });
-
+//para que este codigo funcione cambiar biblioteca por clinica
 export default pool; 
